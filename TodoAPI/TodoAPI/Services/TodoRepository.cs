@@ -70,8 +70,8 @@ namespace TodoAPI.Services
             var todoItem3 = new TodoItem
             {
                 ID = "ecfa6f80-3671-4911-aabe-63cc442c1ecf",
-                Name = "Publish apps",
-                Notes = "All app stores",
+                Name = "SetUp DevOps",
+                Notes = "Use Azure Pipelines",
                 Done = false,
             };
 
